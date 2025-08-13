@@ -29,7 +29,7 @@ python -m venv env
 source env/bin/activate  # On Windows: env\Scripts\activate
 pip install -r requirements.txt
 ```
-3. **Copy API key in .env**
+3. **Paste your Open-AI API key in .env file**
 4. **Run the application**
 ```bash
 python ai.pi
